@@ -26,3 +26,8 @@ The Hangman Game is a classic word-guessing game implemented in Python. The prog
    ```bash
    python hangman.py
    l
+## 👤 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/shahzaib-arshad-20aaba3b5?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **GitHub:** [Insert your GitHub Profile Link Here]
+
+*Thank you for visiting my repository!*
